@@ -1,0 +1,12 @@
+C:\Users\Lorena Silva\DevinAudaces\M02\M2S06\DevinHouseM2S06\trafego.lib\bin\Debug\net7.0\trafego.lib.deps.json
+C:\Users\Lorena Silva\DevinAudaces\M02\M2S06\DevinHouseM2S06\trafego.lib\bin\Debug\net7.0\trafego.lib.dll
+C:\Users\Lorena Silva\DevinAudaces\M02\M2S06\DevinHouseM2S06\trafego.lib\bin\Debug\net7.0\trafego.lib.pdb
+C:\Users\Lorena Silva\DevinAudaces\M02\M2S06\DevinHouseM2S06\trafego.lib\obj\Debug\net7.0\trafego.lib.csproj.AssemblyReference.cache
+C:\Users\Lorena Silva\DevinAudaces\M02\M2S06\DevinHouseM2S06\trafego.lib\obj\Debug\net7.0\trafego.lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lorena Silva\DevinAudaces\M02\M2S06\DevinHouseM2S06\trafego.lib\obj\Debug\net7.0\trafego.lib.AssemblyInfoInputs.cache
+C:\Users\Lorena Silva\DevinAudaces\M02\M2S06\DevinHouseM2S06\trafego.lib\obj\Debug\net7.0\trafego.lib.AssemblyInfo.cs
+C:\Users\Lorena Silva\DevinAudaces\M02\M2S06\DevinHouseM2S06\trafego.lib\obj\Debug\net7.0\trafego.lib.csproj.CoreCompileInputs.cache
+C:\Users\Lorena Silva\DevinAudaces\M02\M2S06\DevinHouseM2S06\trafego.lib\obj\Debug\net7.0\trafego.lib.dll
+C:\Users\Lorena Silva\DevinAudaces\M02\M2S06\DevinHouseM2S06\trafego.lib\obj\Debug\net7.0\refint\trafego.lib.dll
+C:\Users\Lorena Silva\DevinAudaces\M02\M2S06\DevinHouseM2S06\trafego.lib\obj\Debug\net7.0\trafego.lib.pdb
+C:\Users\Lorena Silva\DevinAudaces\M02\M2S06\DevinHouseM2S06\trafego.lib\obj\Debug\net7.0\ref\trafego.lib.dll

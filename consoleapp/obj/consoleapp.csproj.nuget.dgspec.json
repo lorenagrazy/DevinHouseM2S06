@@ -1,0 +1,118 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Lorena Silva\\DevinAudaces\\M02\\M2S06\\DevinHouseM2S06\\consoleapp\\consoleapp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Lorena Silva\\DevinAudaces\\M02\\M2S06\\DevinHouseM2S06\\consoleapp\\consoleapp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lorena Silva\\DevinAudaces\\M02\\M2S06\\DevinHouseM2S06\\consoleapp\\consoleapp.csproj",
+        "projectName": "consoleapp",
+        "projectPath": "C:\\Users\\Lorena Silva\\DevinAudaces\\M02\\M2S06\\DevinHouseM2S06\\consoleapp\\consoleapp.csproj",
+        "packagesPath": "C:\\Users\\Lorena Silva\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lorena Silva\\DevinAudaces\\M02\\M2S06\\DevinHouseM2S06\\consoleapp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Lorena Silva\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Lorena Silva\\DevinAudaces\\M02\\M2S06\\DevinHouseM2S06\\trafego.lib\\trafego.lib.csproj": {
+                "projectPath": "C:\\Users\\Lorena Silva\\DevinAudaces\\M02\\M2S06\\DevinHouseM2S06\\trafego.lib\\trafego.lib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Lorena Silva\\DevinAudaces\\M02\\M2S06\\DevinHouseM2S06\\trafego.lib\\trafego.lib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lorena Silva\\DevinAudaces\\M02\\M2S06\\DevinHouseM2S06\\trafego.lib\\trafego.lib.csproj",
+        "projectName": "trafego.lib",
+        "projectPath": "C:\\Users\\Lorena Silva\\DevinAudaces\\M02\\M2S06\\DevinHouseM2S06\\trafego.lib\\trafego.lib.csproj",
+        "packagesPath": "C:\\Users\\Lorena Silva\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lorena Silva\\DevinAudaces\\M02\\M2S06\\DevinHouseM2S06\\trafego.lib\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Lorena Silva\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
